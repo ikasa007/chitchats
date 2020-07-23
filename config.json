@@ -5,7 +5,7 @@
       "Log": "logs",
       "Port": 8089,
       "Locale": "locales",
-      "Lang": "en"
+      "Lang": "zh"
   },
   "Db": {
     "Driver": "mysql",

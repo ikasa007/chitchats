@@ -16,7 +16,7 @@ func Login(w http.ResponseWriter, r *http.Request){
 }
 
 func Signup(w http.ResponseWriter, r *http.Request ){
-	GenerateHtml(w,nil,"auth/layout","navbar","auth/signup")
+	GenerateHtml(w,nil,"auth/layout","public/navbar","auth/signup")
 }
 
 // register
