@@ -1,0 +1,10 @@
+{
+  "thread_create_failed": {
+    "description": "该群组无法存入数据库",
+    "other": "该群组无法存入数据库"
+  },
+  "thread_not_found": {
+    "description": "该群组不存在,无法获取",
+    "other": "该群组不存在"
+  }
+}

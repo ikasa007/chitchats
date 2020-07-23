@@ -1,0 +1,28 @@
+INFO2020/07/16 15:51:39 log.go:10: Start the server on port 8088
+INFO 2020/07/16 15:52:38 log.go:10: Start the server on port 8088
+INFO 2020/07/16 18:01:22 log.go:10: Start the server on port 8088
+INFO 2020/07/16 18:02:15 log.go:10: Start the server on port 8088
+INFO 2020/07/16 18:05:05 log.go:10: Start the server on port 8088
+CRASH 2020/07/16 18:05:14 log.go:5: can't got thread
+INFO 2020/07/22 14:12:15 log.go:10: Start the server on port 8088
+INFO 2020/07/22 14:14:13 log.go:10: Start the server on port 8088
+INFO 2020/07/22 14:14:57 log.go:10: Start the server on port 8088
+INFO 2020/07/22 14:16:12 log.go:10: Start the server on port 8088
+INFO 2020/07/22 14:27:03 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/22 14:42:08 log.go:10: mysqlroot:@(localhost:3306)/chitchat?charset=utf8&parseTime=%!s(bool=true)
+CRASH 2020/07/22 14:42:08 log.go:5: invalid bool value: %!s(bool=true)
+INFO 2020/07/22 14:42:08 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/22 14:43:00 log.go:10: mysqlroot:@(localhost:3306)/chitchat?charset=utf8&parseTime=%!s(bool=true)
+CRASH 2020/07/22 14:43:00 log.go:5: invalid bool value: %!s(bool=true)
+INFO 2020/07/22 14:43:00 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/22 14:49:36 log.go:10: mysqlroot:@(localhost:3306)/chitchat?charset=utf8&parseTime=true
+INFO 2020/07/22 14:49:36 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/22 18:09:17 log.go:10: Start the server on port 0.0.0.08089
+CRASH 2020/07/22 18:11:30 log.go:5: can't got thread
+CRASH 2020/07/22 18:16:00 log.go:5: can't got thread
+INFO 2020/07/23 15:06:55 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/23 15:11:43 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/23 15:15:58 log.go:10: Start the server on port 0.0.0.08089
+INFO 2020/07/23 16:31:07 log.go:10: Unsupported Config Type ".json"
+INFO 2020/07/23 16:31:42 log.go:10: <nil>
+INFO 2020/07/23 16:31:42 log.go:10: Start the server on port 0.0.0.08089
